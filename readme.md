@@ -1,13 +1,13 @@
 # 02805 – Social Graphs and Interactions  
 ## Project Assignment B
 
-This repository contains the project work for **02805 Social Graphs and Interactions – Assignment B**, focusing on network analysis, community detection, topic modeling, and sentiment analysis using the **20 Newsgroups dataset**.
+This repository contains the project work for **02805 Social Graphs and Interactions**, focusing on network analysis, community detection, topic modeling, and sentiment analysis using the **20 Newsgroups dataset**.
 
 Through a combination of graph theory and natural language processing, we investigate how early online users formed communities, discussed topics, and expressed sentiment across different domains.
 
 ---
 
-##  Repository Structure
+## Repository Structure
 
 This repository contains **three Jupyter notebooks**, each covering different parts of the analysis:
 
@@ -19,7 +19,13 @@ Click on the notebooks above to explore our full methodology and results.
 
 ---
 
-##  Authors
+## Project Report (PDF)
+
+The file `Social_Graphs_ExamProject.pdf` contains the full written report for this project, including background, methodology, results, discussion, and conclusions. It provides a complete summary of what was implemented and analyzed in the notebooks.
+
+---
+
+## Authors
 
 - **Ioannis Vlasakoudis** – s232755  
 - **Max Heiberg Bestle** – s194574  
@@ -27,7 +33,7 @@ Click on the notebooks above to explore our full methodology and results.
 
 ---
 
-##  Course Information
+## Course Information
 
 - **Course:** 02805 Social Graphs and Interactions  
 - **Institution:** Technical University of Denmark (DTU)  
